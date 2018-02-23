@@ -1,0 +1,14 @@
+.ball-y{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    transition: all .4s cubic-bezier(.29,.04,.92,.29);
+    position: fixed;
+}
+.ball-x{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #00B7FF;
+    transition: all .4s linear;
+}
